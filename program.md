@@ -3,7 +3,7 @@ layout: page
 title: Program
 ---
 
-* [Schedule and abstracts as PDF](/gapday2014-program.pdf)
+* [Schedule and abstracts as PDF]({{ site.baseurl }}/gapday2014-program.pdf)
   * Begin of coding sessions: August 25, 10:00
   * Welcoming session and first talks: August 25, 14:00
   * Joint dinner: Wednesday, August 27, 19:00 in the "[Labyrinth](http://www.labyrinthaachen.de)"
