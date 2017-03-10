@@ -1,7 +1,3 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
-
 # Permalinks
 permalink:        pretty
 
@@ -13,5 +9,5 @@ url:              http://gapdays.de
 baseurl:          /gapdays2014
 
 
-exclude: [ "gapday2014-program.*", "misc" ]
+exclude: [ "LICENSE.hyde.md", "README.hyde.md", "gapday2014-program.*", "misc" ]
 include: [ "gapday2014-program.pdf" ]
